@@ -1,4 +1,4 @@
-#### Capstone Project 1 Excel<br/>
+######## Capstone Project 1 Excel<br/>
 I worked on real-time case studies requiring advanced data analysis in MS Excel to ensure accurate business insights.<br/>
 
 My goal was to apply advanced Excel functions and formulas to solve real-world business problems with high accuracy. Additionally, I visualized Freshco Hypermarket’s real-time data, creating logical metrics using Pivot Tables, charts, and diagrams.<br/>
